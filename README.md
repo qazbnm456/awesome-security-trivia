@@ -18,7 +18,42 @@ Check out my [repos](https://github.com/qazbnm456) 🐾 or say *hi* on my [Twitt
 
 ## Contents
 
-## Resource
+- [Language](#lang)
+    - [PHP](#lang-php)
+- [SQL](#sql)
+    - [RDBMS](#rdbms)
+        - [MySQL](#rdbms-mysql)
+    - [NoSQL](#nosql)
+    - [GQL](#gql)
+- [Shell](#shell)
+    - [Bash](#shell-bash)
+
+## Language
+
+<a name="lang-php"></a>
+### PHP
+
+*[PHP-Variables](PHP-Variables.md) - Dots and spaces in variable names are converted to underscores.
+
+## SQL
+
+### RDBMS
+
+<a name="rdbms-mysql"></a>
+### MySQL
+
+* [MySQL-madness-with-exponent](MySQL-madness-with-exponent.md) - Exponent takes down everything.
+
+### NoSQL
+
+### GQL
+
+* [Do-a-GQL-LIKE-query](Do-a-GQL-LIKE-query.md) - Mimic LIKE query in GQL.
+
+## Shell
+
+<a name="shell-bash"></a>
+### Bash
 
 ## Code of Conduct
 
