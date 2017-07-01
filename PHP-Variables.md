@@ -11,7 +11,7 @@ In the [official manual](http://php.net/manual/en/language.variables.external.ph
 
 ## Impact
 
-Since this behaviour isn't that well-known to developers, it's obviously some developers will product code something like following:
+Since this behaviour isn't that well-known to developers, it's obviously some developers will write some validating functions like:
 
 ```php
 if (strstr($_SERVER['QUERY_STRING'], '_')) {
