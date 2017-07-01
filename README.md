@@ -33,8 +33,8 @@ Check out my [repos](https://github.com/qazbnm456) 🐾 or say *hi* on my [Twitt
 <a name="lang-php"></a>
 ### PHP
 
-* [PHP-Variables](PHP-Variables.md) - Dots and spaces in variable names are converted to underscores.
-* [The-mystery-within-PHP-create-function](The-mystery-within-PHP-create-function.md) - What create_function() does not tell you.
+* [PHP Variables](PHP-Variables.md) - Dots and spaces in variable names are converted to underscores.
+* [The mystery within PHP create_function()](The-mystery-within-PHP-create-function.md) - What create_function() does not tell you.
 
 ## SQL
 
@@ -43,13 +43,13 @@ Check out my [repos](https://github.com/qazbnm456) 🐾 or say *hi* on my [Twitt
 <a name="rdbms-mysql"></a>
 ### MySQL
 
-* [MySQL-madness-with-exponent](MySQL-madness-with-exponent.md) - Exponent takes down everything.
+* [MySQL madness with exponent](MySQL-madness-with-exponent.md) - Exponent takes down everything.
 
 ### NoSQL
 
 ### GQL
 
-* [Do-a-GQL-LIKE-query](Do-a-GQL-LIKE-query.md) - Mimic LIKE query in GQL.
+* [Do a GQL LIKE query](Do-a-GQL-LIKE-query.md) - Mimic LIKE query in GQL.
 
 ## Shell
 
