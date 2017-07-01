@@ -56,6 +56,8 @@ Check out my [repos](https://github.com/qazbnm456) 🐾 or say *hi* on my [Twitt
 <a name="shell-bash"></a>
 ### Bash
 
+* [Ways to list or cat directories and files](Ways-to-list-or-cat-directories-and-files.md)
+
 ## Code of Conduct
 
 Please note that this project is released with a [Contributor Code of Conduct](code-of-conduct.md). By participating in this project you agree to abide by its terms.
