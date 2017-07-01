@@ -33,7 +33,7 @@ Check out my [repos](https://github.com/qazbnm456) 🐾 or say *hi* on my [Twitt
 <a name="lang-php"></a>
 ### PHP
 
-*[PHP-Variables](PHP-Variables.md) - Dots and spaces in variable names are converted to underscores.
+* [PHP-Variables](PHP-Variables.md) - Dots and spaces in variable names are converted to underscores.
 
 ## SQL
 
