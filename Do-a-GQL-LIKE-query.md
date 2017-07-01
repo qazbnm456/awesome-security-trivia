@@ -8,9 +8,7 @@ GQL offers limited set of commands comparing to SQL, for example, there's no LIK
 
 So, here I will show you how to mimic a LIKE operator in GQL.
 
-This trivia was discovered in Google 2016 CTF web challenge `Flag Storage Service`.
-
-## Impact
+> This trivia was discovered in Google 2016 CTF web challenge `Flag Storage Service`.
 
 The most important part of code in this challenge is that we can clearly discover a potential injection point:
 
@@ -27,6 +25,8 @@ After the processing procedure, it's importing `google.appengine.api` and execut
 Now, if you want to exploit it with normal SQL injection techniques, you'll soon find out GQL almost lacks everything you need, such as LIKE operator.
 
 But, thanks to this [discussion](https://groups.google.com/forum/#!topic/google-appengine-python/pw6jJdwUOAU), we can mimic one in GQL finally.
+
+## Impact
 
 Therefore, it turns out to be a normal blind SQL injection, and CTF-quality code is provided:
 

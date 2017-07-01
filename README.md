@@ -34,6 +34,7 @@ Check out my [repos](https://github.com/qazbnm456) 🐾 or say *hi* on my [Twitt
 ### PHP
 
 * [PHP-Variables](PHP-Variables.md) - Dots and spaces in variable names are converted to underscores.
+* [The-mystery-within-PHP-create-function](The-mystery-within-PHP-create-function.md) - What create_function() does not tell you.
 
 ## SQL
 
