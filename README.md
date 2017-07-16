@@ -35,6 +35,7 @@ Check out my [repos](https://github.com/qazbnm456) 🐾 or say *hi* on my [Twitt
 
 * [PHP Variables](PHP-Variables.md) - Dots and spaces in variable names are converted to underscores.
 * [The mystery within PHP create_function()](The-mystery-within-PHP-create-function.md) - What create_function() does not tell you.
+* [Tricky ways to exploit PHP Local File Inclusion](Tricky-ways-to-exploit-PHP-Local-File-Inclusion.md) - Some tricky ways to exploit PHP Local File Inclusion.
 
 ## SQL
 
