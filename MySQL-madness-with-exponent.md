@@ -6,11 +6,9 @@ When an exponent literal appears in the query string, a weird syntax seems to be
 
 > This trivia was discovered in Hack.lu CTF 2015 web challenge `Grading Board`, and its source code and official writeup can be found at [jhector/grading-board](https://github.com/jhector/grading-board).
 
-> This challenge is still accessible at https://school.fluxfingers.net:1506/.
-
 This challenge should have prevented `union` keyword in subquery that users can control according to the author.
 
-The preventing mechanism is at https://github.com/jhector/grading-board/blob/master/include/Database.php#L23, and the most important part of the code is:
+The preventing mechanism is at [jhector/grading-board#include/Database.php](https://github.com/jhector/grading-board/blob/master/include/Database.php#L23), and the most important part of the code is:
 
 ```php
 if (preg_match('/[^a-zA-Z0-9_]union[^a-zA-Z0-9_]/i', $condition))
